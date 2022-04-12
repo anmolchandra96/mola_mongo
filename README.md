@@ -1,4 +1,4 @@
-# MOLA mogo backend server
+# MOLA mongo backend server
 
 ### To run this server: npm i | node app.js
 
